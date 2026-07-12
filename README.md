@@ -20,4 +20,16 @@ LeetCode Commits
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Balamuruga-06/dsa-prep/tree/main/0242-valid-anagram/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Balamuruga-06/dsa-prep/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Balamuruga-06/dsa-prep/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Balamuruga-06/dsa-prep/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
