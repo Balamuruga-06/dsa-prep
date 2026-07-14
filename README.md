@@ -7,6 +7,7 @@ LeetCode Commits
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Balamuruga-06/dsa-prep/tree/main/0125-valid-palindrome/) | Easy |
+| [0283-move-zeroes](https://github.com/Balamuruga-06/dsa-prep/tree/main/0283-move-zeroes/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,6 +24,7 @@ LeetCode Commits
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0283-move-zeroes](https://github.com/Balamuruga-06/dsa-prep/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Balamuruga-06/dsa-prep/tree/main/0303-range-sum-query-immutable/) | Easy |
 ## Design
 | Problem Name | Difficulty |
