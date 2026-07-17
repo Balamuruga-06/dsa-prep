@@ -1,20 +1,15 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        int n = nums.length;
+        
+        int size = nums.length;
+        int total = (size*(size+1))/2;
 
-        while(n>0){
-            int tr=0;
-            for(int i=0;i<nums.length;i++){
-                if(n==nums[i]){
-                    tr=1;
-                    break;
-                }
-            }
-            if(tr==0){
-                return n;
-            }
-            n--;
+        int arrTotal=0;
+        for(int i=0;i<size;i++){
+            arrTotal+=nums[i];
         }
-        return 0;
+
+        return total - arrTotal;
+        
     }
 }
