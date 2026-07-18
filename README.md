@@ -28,6 +28,7 @@ LeetCode Commits
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Balamuruga-06/dsa-prep/tree/main/0053-maximum-subarray/) | Medium |
 | [0268-missing-number](https://github.com/Balamuruga-06/dsa-prep/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Balamuruga-06/dsa-prep/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Balamuruga-06/dsa-prep/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -51,4 +52,12 @@ LeetCode Commits
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Balamuruga-06/dsa-prep/tree/main/0268-missing-number/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Balamuruga-06/dsa-prep/tree/main/0053-maximum-subarray/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Balamuruga-06/dsa-prep/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
