@@ -32,6 +32,7 @@ LeetCode Commits
 | [0268-missing-number](https://github.com/Balamuruga-06/dsa-prep/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Balamuruga-06/dsa-prep/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Balamuruga-06/dsa-prep/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0704-binary-search](https://github.com/Balamuruga-06/dsa-prep/tree/main/0704-binary-search/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +49,7 @@ LeetCode Commits
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Balamuruga-06/dsa-prep/tree/main/0268-missing-number/) | Easy |
+| [0704-binary-search](https://github.com/Balamuruga-06/dsa-prep/tree/main/0704-binary-search/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
